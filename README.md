@@ -2,7 +2,8 @@
 
 * currently learning the fundamentals of python
 * plan on using javascript for web dev as well as developing apps using react native
-* aiming for software/solutions architect level (but hope to study and develop machine learning algorithms for personal projects/future side businesses.)
+* aiming for software/solutions architect level
+  (but hope to study and develop machine learning algorithms for personal projects/future side businesses.)
 
 <!---
 iveri99/iveri99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
